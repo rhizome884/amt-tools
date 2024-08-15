@@ -16,5 +16,7 @@ pandas>=1.4.2
 mirdata>=0.3.6
 sounddevice>=0.4.4
 pynput>=1.7.6
+resampy>=0.4.3
+smart-open>=7.0.4
 # TODO - extras - examples?
 # TODO - extras - streaming?
